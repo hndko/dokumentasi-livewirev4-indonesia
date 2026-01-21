@@ -2,7 +2,7 @@
 
 Dokumentasi Livewire v4 yang telah diterjemahkan ke dalam Bahasa Indonesia.
 
-## 📋 Daftar Isi
+## 📖 Dokumentasi
 
 ### 01. Getting Started (3 files)
 
@@ -90,18 +90,33 @@ Dokumentasi Livewire v4 yang telah diterjemahkan ke dalam Bahasa Indonesia.
 | VIII | [Synthesizers](docs/07.%20Advanced/VIII.%20synthesizers.md)                  |
 | IX   | [Contribution Guide](docs/07.%20Advanced/IX.%20contribution-guide.md)        |
 
+---
+
+## 🎓 Tutorial
+
+Pelajari Livewire melalui proyek nyata!
+
+| Level                                            | Project             | Deskripsi                                   |
+| ------------------------------------------------ | ------------------- | ------------------------------------------- |
+| 🟢 [Pemula](tutorial/01.%20Pemula/README.md)     | Todo List App       | Dasar-dasar komponen, properties, actions   |
+| 🟡 [Menengah](tutorial/02.%20Menengah/README.md) | Blog + Comments     | Nested components, uploads, pagination      |
+| 🔴 [Pro](tutorial/03.%20Pro/README.md)           | Dashboard Analytics | Islands, streaming, polling, JS integration |
+
+---
+
 ## 📊 Statistik
 
-| Section          | Jumlah File |
-| ---------------- | ----------- |
-| Getting Started  | 3           |
-| Essentials       | 8           |
-| Features         | 14          |
-| HTML Directives  | 22          |
-| PHP Attributes   | 18          |
-| Blade Directives | 4           |
-| Advanced         | 9           |
-| **Total**        | **78**      |
+| Section               | Jumlah File |
+| --------------------- | ----------- |
+| Getting Started       | 3           |
+| Essentials            | 8           |
+| Features              | 14          |
+| HTML Directives       | 22          |
+| PHP Attributes        | 18          |
+| Blade Directives      | 4           |
+| Advanced              | 9           |
+| **Total Dokumentasi** | **78**      |
+| **Tutorial**          | **3**       |
 
 ## 📖 Sumber
 
