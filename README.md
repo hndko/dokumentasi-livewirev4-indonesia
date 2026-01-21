@@ -69,12 +69,26 @@ Dokumentasi Livewire v4 yang telah diterjemahkan ke dalam Bahasa Indonesia.
 
 ### 06. Blade Directives (4 files)
 
-| No  | Direktif                                                           | Deskripsi                          |
-| --- | ------------------------------------------------------------------ | ---------------------------------- |
-| I   | [@island](docs/06.%20Blade%20Directives/I.%20island.md)            | Isolated rendering regions         |
-| II  | [@placeholder](docs/06.%20Blade%20Directives/II.%20placeholder.md) | Loading placeholders               |
-| III | [@persist](docs/06.%20Blade%20Directives/III.%20persist.md)        | Persist elements across navigation |
-| IV  | [@teleport](docs/06.%20Blade%20Directives/IV.%20teleport.md)       | Move content in DOM                |
+| No  | Direktif                                                           |
+| --- | ------------------------------------------------------------------ |
+| I   | [@island](docs/06.%20Blade%20Directives/I.%20island.md)            |
+| II  | [@placeholder](docs/06.%20Blade%20Directives/II.%20placeholder.md) |
+| III | [@persist](docs/06.%20Blade%20Directives/III.%20persist.md)        |
+| IV  | [@teleport](docs/06.%20Blade%20Directives/IV.%20teleport.md)       |
+
+### 07. Advanced (9 files)
+
+| No   | Topik                                                                        |
+| ---- | ---------------------------------------------------------------------------- |
+| I    | [Morphing](docs/07.%20Advanced/I.%20morphing.md)                             |
+| II   | [Hydration](docs/07.%20Advanced/II.%20hydration.md)                          |
+| III  | [Understanding Nesting](docs/07.%20Advanced/III.%20understanding-nesting.md) |
+| IV   | [Troubleshooting](docs/07.%20Advanced/IV.%20troubleshooting.md)              |
+| V    | [Security](docs/07.%20Advanced/V.%20security.md)                             |
+| VI   | [CSP](docs/07.%20Advanced/VI.%20csp.md)                                      |
+| VII  | [JavaScript](docs/07.%20Advanced/VII.%20javascript.md)                       |
+| VIII | [Synthesizers](docs/07.%20Advanced/VIII.%20synthesizers.md)                  |
+| IX   | [Contribution Guide](docs/07.%20Advanced/IX.%20contribution-guide.md)        |
 
 ## 📊 Statistik
 
@@ -86,7 +100,8 @@ Dokumentasi Livewire v4 yang telah diterjemahkan ke dalam Bahasa Indonesia.
 | HTML Directives  | 22          |
 | PHP Attributes   | 18          |
 | Blade Directives | 4           |
-| **Total**        | **69**      |
+| Advanced         | 9           |
+| **Total**        | **78**      |
 
 ## 📖 Sumber
 
